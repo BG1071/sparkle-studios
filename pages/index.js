@@ -8,7 +8,7 @@ export default function App() {
     <div className="app">
       <div id="navigation" className="navigation">
         <div className="navbar">
-          <div className="navbar-left">Sparkle Studios</div>
+          <div className="navbar-left"><img src="sparklestudios.png" alt="Sparkle Studios"></img></div>
           <div className="navbar-right">
             <div className="navbar-anchor">
               <a href="#about">about us</a>
